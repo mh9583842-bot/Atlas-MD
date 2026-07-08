@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/FantoX/Atlas-MD">
+  <a href="https://github.com/mh9583842-bot/Atlas-MD">
     <img src="https://i.imgur.com/MClOeqe.jpeg" width="100%">
   </a>
 </p>
 
-<h1 align="center">⚡ Atlas MD</h1>
+<h1 align="center">⚡ Ayesha MD</h1>
 
 <p align="center">
   <i>An Opensource WhatsApp bot by <a href="https://github.com/FantoX">FantoX</a> & Team Atlas — built with Baileys Multi-Device for maximum features, stability and compatibility.</i>
