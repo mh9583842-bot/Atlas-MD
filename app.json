@@ -1,5 +1,5 @@
 {
-  "name": "Atlas-MD",
+  "name": "Ayesha-MD",
   "description": "The future of WhatsApp bots now with plugin support.",
   "keywords": [
     "bot",
@@ -15,7 +15,7 @@
     "md-bot"
   ],
   "website": "https://github.com/FantoX/Atlas-MD#readme",
-  "repository": "https://github.com/FantoX/Atlas-MD.git",
+  "repository": "https://github.com/mh9583842-bot/Atlas-MD.git",
   "logo": "https://graph.org/file/02abf0fd8fc2a13cc67a1.jpg",
   "success_url": "/",
   "env": {
@@ -27,7 +27,7 @@
       "description": "A random string for your bot session. Which works as an OTP to get qr code. You have to change session every time to get a new qr."
     },
     "MODS": {
-      "description": "Put any phone number without + , () and spaces \",\" Ex: 918101187835,929864781259 )",
+      "description": "Put any phone number without + , () and spaces \",\" Ex: 923429010160,923429010160 )",
       "required": false
     },
     "TENOR_API_KEY": {
@@ -35,7 +35,7 @@
       "required": false
     },
     "PACKNAME": {
-      "description": "Put a sticker packname here. Default is: Atlas Bot",
+      "description": "Put a sticker packname here. Default is: Ayesha Bot",
       "required": false
     },
     "MONGODB": {
